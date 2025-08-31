@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Field Technician:</h2>
 
-- <b>Cabling and Network Patch</b>
-  - (https://github.com/Oghenevwoke/Cabling-and-Network-Patch/blob/main/README.md)
+- <b>Cabling and Network Patch</b> (https://github.com/Oghenevwoke/Cabling-and-Network-Patch/blob/main/README.md)
+
 - <b>Connectivity (Pepwave-Peplink)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b> Luxerone Smartlocker</b>
