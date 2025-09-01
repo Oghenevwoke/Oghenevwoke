@@ -1,4 +1,4 @@
-<h1>I'm Vwoke PMP® <br/> IT Project Cordinator </a></h1>
+<h1>I'm Vwoke PMP® <br/> IT Project Cordinator, Field Technician, Network Administrator </a></h1>
 
 <h2>👨‍💻 Field Technician:</h2>
 
