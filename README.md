@@ -2,21 +2,15 @@
 
 <h2>👨‍💻 Field Technician:</h2>
 
-- <b>Cabling and Network Patch</b> (https://github.com/Oghenevwoke/Cabling-and-Network-Patch)
-
-- <b>Connectivity (Pepwave-Peplink)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b> Luxerone Smartlocker</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Cabling and Networking </b>
+  - [Cabling and Network Patch, DHCP](https://github.com/Oghenevwoke/Cabling-and-Network-Patch)
+- <b>Connectivity </b>
+  - [Pepwave to Peplink](https://github.com/Oghenevwoke/Connectivity-Pepwave---Peplink-/blob/main/README.md)
+- <b> IOS/IOT/ANDRIOD </b>
+  - [Luxerone Smartlocker](https://github.com/Oghenevwoke/Luxerone-Smartlocker/blob/main/README.md)
 - <b>Troubleshoot (Port, switch. and Network)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Troubleshoot (Port, switch. and Network](https://github.com/Oghenevwoke/Troubleshoot-Port-Switches-and-Network-/blob/main/README.md)
 - <b> Device Troubleshoot, Migration and Installation (Cradle point)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b> (VoIP) </b>
 - <b> Demarc </b>
 
