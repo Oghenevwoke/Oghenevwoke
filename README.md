@@ -17,8 +17,7 @@
 <h2>📺 Certifications </h2>
 
 - PMI
-  -[Project Management Professional]![Image](https://github.com/user-attachments/assets/e545d380-7847-4cc4-8245-e72c8c6f47bb)
-![Image](https://github.com/user-attachments/assets/2bf32e4d-f9fa-455f-a665-470f61be3042)
+  -[Project Management Professional]![Image](https://github.com/user-attachments/assets/2bf32e4d-f9fa-455f-a665-470f61be3042)![Image](https://github.com/user-attachments/assets/e545d380-7847-4cc4-8245-e72c8c6f47bb)
 - CompTIA A+
   -[CompTIA A+ ce certificate.jpeg]![Image](https://github.com/user-attachments/assets/3847f1f2-04c0-4659-94ac-23a54975ff77)
 
