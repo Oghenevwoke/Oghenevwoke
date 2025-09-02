@@ -16,8 +16,11 @@
 
 <h2>📺 Certifications </h2>
 
-- PMP.(https://www.youtube.com/watch?v=a83ASGn_V_s)
-- CompTIA A+(https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- PMI
+  -[Project Management Professional]![Image](https://github.com/user-attachments/assets/e545d380-7847-4cc4-8245-e72c8c6f47bb)
+![Image](https://github.com/user-attachments/assets/2bf32e4d-f9fa-455f-a665-470f61be3042)
+- CompTIA A+
+  -[CompTIA A+ ce certificate.pdf](https://github.com/user-attachments/files/22085386/CompTIA.A%2B.ce.certificate.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
