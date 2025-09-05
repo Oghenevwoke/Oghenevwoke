@@ -4,7 +4,7 @@
 
 - <b>Cabling and Networking </b>
   - [Cabling and Network Patch, DHCP](https://github.com/Oghenevwoke/Cabling-and-Network-Patch)
-  - [Video]
+  - [Videos]
 - <b>Connectivity </b>
   - [Pepwave to Peplink](https://github.com/Oghenevwoke/Connectivity-Pepwave---Peplink-/blob/main/README.md)
 - <b> IOS/IOT/ANDRIOD </b>
