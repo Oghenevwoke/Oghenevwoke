@@ -32,7 +32,7 @@ http://www.linkedin.com/in/oghenevwoke-eruvwurigho-ojarigho
 
 
 
-what's going in.
+<h2> what's going on</h2>
 
 - 🔭 I’m currently working on CompTIA Network+ Certification
 
