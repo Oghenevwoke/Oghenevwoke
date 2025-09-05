@@ -32,7 +32,7 @@ http://www.linkedin.com/in/oghenevwoke-eruvwurigho-ojarigho
 
 
 
-Here are some ideas to get you started:
+what's going in.
 
 - 🔭 I’m currently working on CompTIA Network+ Certification
 
