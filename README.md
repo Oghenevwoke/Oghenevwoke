@@ -11,7 +11,7 @@
 
 [![Watch Video]![Image](https://github.com/user-attachments/assets/bd36f418-e104-4672-bd0b-980c8ea672c6 )](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)
 
-- <b> DataRack </b>
+
 
 - <b>Cable, Port, and Switch Test </b>
 
