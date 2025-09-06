@@ -12,6 +12,13 @@
 [![Watch Video]![Image](https://github.com/user-attachments/assets/bd36f418-e104-4672-bd0b-980c8ea672c6 )](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)
 
 
+[<img src="https://github.com/user-attachments/assets/339a887c-eeb5-45f4-affe-63494a685668" width="150" height="150" />](https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4)
+
+[<img src="https://github.com/user-attachments/assets/bd36f418-e104-4672-bd0b-980c8ea672c6" width="150" height="150" />](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)
+
+[<img src="https://github.com/user-attachments/assets/b7a6300c-ad0e-4208-aa6e-16cc33cd7c30" width="150" height="150" />](https://oghenevwoke.github.io/Cable-Port-and-Switch-test/IMG_2048_1%20(1)%20(1).mp4)
+
+[<img src="https://github.com/user-attachments/assets/a6733d5c-7e1e-4ff9-9f67-3868bf9d68b7" width="150" height="150" />](https://oghenevwoke.github.io/Watch-video/IMG_2049_1%20(1).mp4)
 
 - <b>Cable, Port, and Switch Test </b>
 
