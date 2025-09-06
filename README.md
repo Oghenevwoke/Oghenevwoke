@@ -10,7 +10,7 @@
 </a>
 
 
--<b> DataRack </b>
+- <b>DataRack </b>
 
  -[Watch Video](https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4)  
 <a href="https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4">
