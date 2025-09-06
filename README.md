@@ -2,23 +2,34 @@
 
 <h2>👨‍💻 Field Technician:</h2>
 
-- <b>Cable, Port, and Switch Test </b>
-
-[![Watch Video]![Image](https://github.com/user-attachments/assets/b7a6300c-ad0e-4208-aa6e-16cc33cd7c30 )](https://oghenevwoke.github.io/Cable-Port-and-Switch-test/IMG_2048_1%20(1)%20(1).mp4)
 - <b>PDU-Migration-Relocation </b>
 
 [![Watch Video]![Image](https://github.com/user-attachments/assets/bd36f418-e104-4672-bd0b-980c8ea672c6 )](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)
+
+
+
+- <b>Cable, Port, and Switch Test </b>
+
+[![Watch Video]![Image](https://github.com/user-attachments/assets/b7a6300c-ad0e-4208-aa6e-16cc33cd7c30 )](https://oghenevwoke.github.io/Cable-Port-and-Switch-test/IMG_2048_1%20(1)%20(1).mp4)
+
+
 - <b>Cabling and Networking </b>
   - [Cabling and Network Patch, DHCP](https://github.com/Oghenevwoke/Cabling-and-Network-Patch)
   - [![Watch Video]![Image](https://github.com/user-attachments/assets/a6733d5c-7e1e-4ff9-9f67-3868bf9d68b7 )](https://oghenevwoke.github.io/Watch-video/IMG_2049_1%20(1).mp4)
+    
 - <b>Connectivity </b>
   - [Pepwave to Peplink](https://github.com/Oghenevwoke/Connectivity-Pepwave---Peplink-/blob/main/README.md)
+
 - <b> IOS/IOT/ANDRIOD </b>
   - [Luxerone Smartlocker](https://github.com/Oghenevwoke/Luxerone-Smartlocker/blob/main/README.md)
+
 - <b>Troubleshoot (Port, switch. and Network)</b>
   - [Troubleshoot (Port, switch. and Network](https://github.com/Oghenevwoke/Troubleshoot-Port-Switches-and-Network-/blob/main/README.md)
+
 - <b> Device Troubleshoot, Migration and Installation (Cradle point)</b>
+
 - <b> (VoIP) </b>
+
 - <b> Demarc </b>
 
 <h2>📺 Certifications </h2>
