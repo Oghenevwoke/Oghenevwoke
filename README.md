@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Field Technician:</h2>
 
+-Cable, Port< and Switch Test
+  -[![Watch Video]![Image](https://github.com/user-attachments/assets/b7a6300c-ad0e-4208-aa6e-16cc33cd7c30 )](https://oghenevwoke.github.io/Cable-Port-and-Switch-test/IMG_2048_1%20(1)%20(1).mp4)
 - <b>PDU-Migration-Relocation </b>
   -[![Watch Video]![Image](https://github.com/user-attachments/assets/bd36f418-e104-4672-bd0b-980c8ea672c6 )](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)
 - <b>Cabling and Networking </b>
