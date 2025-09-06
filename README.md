@@ -3,7 +3,7 @@
 <h2>👨‍💻 Field Technician:</h2>
 
 - <b>PDU-Migration-Relocation </b>
-  -[![Watch Video]![Image](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)
+  -[![Watch Video]![Image](https://github.com/user-attachments/assets/a6733d5c-7e1e-4ff9-9f67-3868bf9d68b7 )](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)
 - <b>Cabling and Networking </b>
   - [Cabling and Network Patch, DHCP](https://github.com/Oghenevwoke/Cabling-and-Network-Patch)
   - [![Watch Video]![Image](https://github.com/user-attachments/assets/a6733d5c-7e1e-4ff9-9f67-3868bf9d68b7 )](https://oghenevwoke.github.io/Watch-video/IMG_2049_1%20(1).mp4)
