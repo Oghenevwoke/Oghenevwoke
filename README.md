@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Field Technician:</h2>
 
+-<b> DataRack </b>
+
+[![Watch Video]![Image](https://github.com/user-attachments/assets/339a887c-eeb5-45f4-affe-63494a685668 )](https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4)
+
+
 - <b>PDU-Migration-Relocation </b>
 
 [![Watch Video]![Image](https://github.com/user-attachments/assets/bd36f418-e104-4672-bd0b-980c8ea672c6 )](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)
