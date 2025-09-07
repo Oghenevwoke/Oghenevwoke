@@ -51,10 +51,10 @@
 <h2>📺 Certifications </h2>
 
 - PMI
-  - <img src="https://github.com/user-attachments/assets/2bf32e4d-f9fa-455f-a665-470f61be3042" alt="Project Management professional" width="500" height="500">
-  - <img src="https://github.com/user-attachments/assets/e545d380-7847-4cc4-8245-e72c8c6f47bb" alt="Project Management professional" width="500" height="500">
+  - <img src="https://github.com/user-attachments/assets/2bf32e4d-f9fa-455f-a665-470f61be3042" alt="Project Management professional" width="350" height="350">
+  - <img src="https://github.com/user-attachments/assets/e545d380-7847-4cc4-8245-e72c8c6f47bb" alt="Project Management professional" width="350" height="350">
 - CompTIA A+
-    - <img src="https://github.com/user-attachments/assets/3847f1f2-04c0-4659-94ac-23a54975ff77" alt="CompTIA A+ ce certificate" width="500" height="500">
+    - <img src="https://github.com/user-attachments/assets/3847f1f2-04c0-4659-94ac-23a54975ff77" alt="CompTIA A+ ce certificate" width="350" height="350">
 
 
 <h2> 🤳 Connect with me:</h2>
