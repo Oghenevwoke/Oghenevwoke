@@ -2,6 +2,13 @@
 
 <h2>👨‍💻 Field Technician:</h2>
 
+- <b>Configuring a Firewall Rule(FTP Sever_P21) </b>
+  - [Configuring a Firewall Rule(FTP Sever_P21](https://github.com/Oghenevwoke/Setting-up-a-DNS-Server)
+  - [Watch Video](https://oghenevwoke.github.io/Setting-up-a-DNS-Server/Setting%20up%20a%20DNS%20Server.mp4)  
+  <a href="https://oghenevwoke.github.io/Setting-up-a-DNS-Server/Setting%20up%20a%20DNS%20Server.mp4">
+   <img src="https://github.com/user-attachments/assets/47bf7fea-120c-45b6-bc42-05d738d2dd4f" width="150" height="150" />
+</a>
+
 - <b>Setting up a DNS Server </b>
   - [Setting up a DNS Server](https://github.com/Oghenevwoke/Setting-up-a-DNS-Server)
   - [Watch Video](https://oghenevwoke.github.io/Setting-up-a-DNS-Server/Setting%20up%20a%20DNS%20Server.mp4)  
