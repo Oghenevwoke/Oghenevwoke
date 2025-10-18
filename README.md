@@ -3,9 +3,13 @@
 <h2>👨‍💻 Field Technician:</h2>
 
 - <b>Setting up a DNS Server </b>
-  - [PDU Relocation Description](https://github.com/Oghenevwoke/Video_PDU-Migration-Relocation)
+  - [Setting up a DNS Server](https://github.com/Oghenevwoke/Setting-up-a-DNS-Server)
   - [Watch Video](https://oghenevwoke.github.io/Setting-up-a-DNS-Server/Setting%20up%20a%20DNS%20Server.mp4)  
-  
+  <a href="https://oghenevwoke.github.io/Setting-up-a-DNS-Server/Setting%20up%20a%20DNS%20Server.mp4">
+   <img src="https://github.com/user-attachments/assets/47bf7fea-120c-45b6-bc42-05d738d2dd4f" width="150" height="150" />
+</a>
+
+
 - <b>PDU-Migration-Relocation </b>
   - [PDU Relocation Description](https://github.com/Oghenevwoke/Video_PDU-Migration-Relocation)
   - [Watch Video](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)  
