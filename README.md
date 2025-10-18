@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Field Technician:</h2>
 
+- <b>Setting up a DNS Server </b>
+  - [PDU Relocation Description](https://github.com/Oghenevwoke/Video_PDU-Migration-Relocation)
+  - [Watch Video](https://oghenevwoke.github.io/Setting-up-a-DNS-Server/Setting%20up%20a%20DNS%20Server.mp4)  
+  
 - <b>PDU-Migration-Relocation </b>
   - [PDU Relocation Description](https://github.com/Oghenevwoke/Video_PDU-Migration-Relocation)
   - [Watch Video](https://oghenevwoke.github.io/Video_PDU-Migration-Relocation/IMG_2189_1%20(1).mp4)  
