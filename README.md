@@ -6,7 +6,7 @@
   - [Securing a Router](https://github.com/Oghenevwoke/Securing-a-router)
   - [Watch Video](https://oghenevwoke.github.io/Securing-a-router/Securing%20a%20Router.mp4)  
   <a href="https://oghenevwoke.github.io/Securing-a-router/Securing%20a%20Router.mp4">
-   <img src="https://github.com/user-attachments/assets/c2396143-2622-465f-a1c3-06c4e90d0a69" width="150" height="150" />
+   <img src="https://github.com/user-attachments/assets/b2d38dbd-ed46-4432-854a-80f1b56b2fef" width="150" height="150" />
 </a>
 
 - <b>Configuring a Firewall Rule(FTP Sever_P21) </b>
