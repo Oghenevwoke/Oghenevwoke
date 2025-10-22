@@ -2,6 +2,14 @@
 
 <h2>👨‍💻 Field Technician:</h2>
 
+- <b> Using an IP Scanner </b>
+  - [Using an IP Scanner](https://github.com/Oghenevwoke/Using-an-IP-Scanner)
+  - [Watch Video](https://oghenevwoke.github.io/Using-an-IP-Scanner/Using%20an%20IP%20Scanner%20(1).mp4)  
+  <a href="https://oghenevwoke.github.io/Using-an-IP-Scanner/Using%20an%20IP%20Scanner%20(1).mp4">
+   <img src="https://github.com/user-attachments/assets/b2d38dbd-ed46-4432-854a-80f1b56b2fef" width="150" height="150" />
+</a>
+
+
 - <b> Securing a Router </b>
   - [Securing a Router](https://github.com/Oghenevwoke/Securing-a-router)
   - [Watch Video](https://oghenevwoke.github.io/Securing-a-router/Securing%20a%20Router.mp4)  
