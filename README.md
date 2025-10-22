@@ -6,7 +6,7 @@
   - [Using an IP Scanner](https://github.com/Oghenevwoke/Using-an-IP-Scanner)
   - [Watch Video](https://oghenevwoke.github.io/Using-an-IP-Scanner/Using%20an%20IP%20Scanner%20(1).mp4)  
   <a href="https://oghenevwoke.github.io/Using-an-IP-Scanner/Using%20an%20IP%20Scanner%20(1).mp4">
-   <img src="https://github.com/user-attachments/assets/b2d38dbd-ed46-4432-854a-80f1b56b2fef" width="150" height="150" />
+   <img src="https://github.com/user-attachments/assets/de18d898-456a-4d0f-a272-e37ae6e9d1a9" width="150" height="150" />
 </a>
 
 
