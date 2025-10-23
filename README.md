@@ -1,6 +1,6 @@
 <h1>I'm Vwoke PMP® <br/> IT Project Cordinator, Field Technician, Network Administrator </a></h1>
 
-<h2>👨‍💻 Field Technician:</h2>
+<h2>👨‍💻 System Administrator, Field Technician:</h2>
 
 - <b> Using an IP Scanner </b>
   - [Using an IP Scanner](https://github.com/Oghenevwoke/Using-an-IP-Scanner)
