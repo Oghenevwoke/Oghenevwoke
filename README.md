@@ -2,6 +2,13 @@
 
 <h2>👨‍💻 System Administrator, Field Technician:</h2>
 
+- <b> Cisco RV345 Router (Configuring a VLAN) </b>
+  - [Cisco RV345 Router (Configuring a VLAN)](https://github.com/Oghenevwoke/Cisco-RV345-Router-Configuring-a-VLAN-)
+  - [Watch Video](https://https://oghenevwoke.github.io/Cisco-RV345-Router-Configuring-a-VLAN-/Cisco%20RV345%20Router(Configuring%20a%20VLAN).mp4)  
+  <a href="https://https://oghenevwoke.github.io/Cisco-RV345-Router-Configuring-a-VLAN-/Cisco%20RV345%20Router(Configuring%20a%20VLAN).mp4">
+   <img src="https://github.com/user-attachments/assets/de18d898-456a-4d0f-a272-e37ae6e9d1a9" width="150" height="150" />
+</a>
+
 - <b> Using an IP Scanner </b>
   - [Using an IP Scanner](https://github.com/Oghenevwoke/Using-an-IP-Scanner)
   - [Watch Video](https://oghenevwoke.github.io/Using-an-IP-Scanner/Using%20an%20IP%20Scanner%20(1).mp4)  
