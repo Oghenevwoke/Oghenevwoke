@@ -6,7 +6,7 @@
   - [Cisco RV345 Router (Configuring a VLAN)](https://github.com/Oghenevwoke/Cisco-RV345-Router-Configuring-a-VLAN-)
   - [Watch Video](https://oghenevwoke.github.io/Cisco-RV345-Router-Configuring-a-VLAN-/Cisco%20RV345%20Router(Configuring%20a%20VLAN).mp4)  
   <a href="https://oghenevwoke.github.io/Cisco-RV345-Router-Configuring-a-VLAN-/Cisco%20RV345%20Router(Configuring%20a%20VLAN).mp4">
-   <img src="https://github.com/user-attachments/assets/de18d898-456a-4d0f-a272-e37ae6e9d1a9" width="150" height="150" />
+   <img src="https://github.com/user-attachments/assets/839577f9-0fb0-4a78-bddc-4b761e810ac9" width="150" height="150" />
 </a>
 
 - <b> Using an IP Scanner </b>
