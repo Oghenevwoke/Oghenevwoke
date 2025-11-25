@@ -1,4 +1,4 @@
-<h1>I'm Vwoke PMP®, A+, N+ <br/> IT Project Cordinator, Field Technician, Network Administrator </a></h1>
+<h1>I'm Vwoke PMP®, A+, N+, CIOS <br/> IT Project Cordinator, Field Technician, Network Administrator </a></h1>
 
 <h2>👨‍💻 System Administrator, Field Technician:</h2>
 
