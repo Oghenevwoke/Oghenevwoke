@@ -93,7 +93,8 @@
 - CompTIA A+
     - <img src="https://github.com/user-attachments/assets/3847f1f2-04c0-4659-94ac-23a54975ff77" alt="CompTIA A+ ce certificate" width="350" height="350">
 - CompTIA N+
-  - <img src="https://github.com/user-attachments/assets/3847f1f2-04c0-4659-94ac-23a54975ff77" alt="CompTIA N+ ce certificate" width="350" height="350">
+  - <img src="https://github.com/user-attachments/assets/2cf373db-0ed9-4325-bee3-55dd90cb898e" alt="CompTIA N+ ce certificate" width="350" height="350">
+  <img width="1650" height="1275" alt="Image" src="https://github.com/user-attachments/assets/2cf373db-0ed9-4325-bee3-55dd90cb898e" />
   
     [CompTIA Network+ ce certificate.pdf](https://github.com/user-attachments/files/34205226/CompTIA.Network%2B.ce.certificate.pdf)
 
