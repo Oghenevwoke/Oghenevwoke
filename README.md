@@ -5,7 +5,7 @@
 - <b> Cisco RV345 Router (Configuring a VLAN) </b>
   - [Cisco RV345 Router (Configuring a VLAN)](https://github.com/Oghenevwoke/Cisco-RV345-Router-Configuring-a-VLAN-)
   - [Watch Video](https://oghenevwoke.github.io/Cisco-RV345-Router-Configuring-a-VLAN-/Cisco%20RV345%20Router(Configuring%20a%20VLAN).mp4)  
-  <a href="https://oghenevwoke.github.io/Cisco-RV345-Router-Configuring-a-VLAN-/Cisco%20RV345%20Router(Configuring%20a%20VLAN).mp4">
+ <a href="https://oghenevwoke.github.io/Cisco-RV345-Router-Configuring-a-VLAN-/Cisco%20RV345%20Router(Configuring%20a%20VLAN).mp4">
    <img src="https://github.com/user-attachments/assets/839577f9-0fb0-4a78-bddc-4b761e810ac9" width="150" height="150" />
 </a>
 
@@ -66,7 +66,7 @@
 - <b>Cabling and Networking </b>
   - [Cabling and Network Patch, DHCP](https://github.com/Oghenevwoke/Cabling-and-Network-Patch)
   - [Watch Video](https://oghenevwoke.github.io/Watch-video/IMG_2049_1%20(1).mp4)  
-  <a href="https://oghenevwoke.github.io/Watch-video/IMG_2049_1%20(1).mp4">
+ <a href="https://oghenevwoke.github.io/Watch-video/IMG_2049_1%20(1).mp4">
   <img src="https://github.com/user-attachments/assets/a6733d5c-7e1e-4ff9-9f67-3868bf9d68b7" width="150" height="150" />
 </a>
     
