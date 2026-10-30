@@ -9,6 +9,13 @@
    <img src="https://github.com/user-attachments/assets/839577f9-0fb0-4a78-bddc-4b761e810ac9" width="150" height="150" />
 </a>
 
+- <b>DataRack </b>
+  - [DataRack Description](https://github.com/Oghenevwoke/DataRack)
+  - [Watch Video](https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4)  
+<a href="https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4">
+  <img src="https://github.com/user-attachments/assets/339a887c-eeb5-45f4-affe-63494a685668" width="150" height="150" />
+</a>
+
 - <b> Using an IP Scanner </b>
   - [Using an IP Scanner](https://github.com/Oghenevwoke/Using-an-IP-Scanner)
   - [Watch Video](https://oghenevwoke.github.io/Using-an-IP-Scanner/Using%20an%20IP%20Scanner%20(1).mp4)  
@@ -46,13 +53,6 @@
   <img src="https://github.com/user-attachments/assets/bd36f418-e104-4672-bd0b-980c8ea672c6" width="150" height="150" />
 </a>
 
-
-- <b>DataRack </b>
-  - [DataRack Description](https://github.com/Oghenevwoke/DataRack)
-  - [Watch Video](https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4)  
-<a href="https://oghenevwoke.github.io/DataRack/IMG_2129_1%20(1).mp4">
-  <img src="https://github.com/user-attachments/assets/339a887c-eeb5-45f4-affe-63494a685668" width="150" height="150" />
-</a>
 
 
 - <b>Cable, Port, and Switch Test </b>
