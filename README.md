@@ -92,6 +92,10 @@
   - <img src="https://github.com/user-attachments/assets/e545d380-7847-4cc4-8245-e72c8c6f47bb" alt="Project Management professional" width="350" height="350">
 - CompTIA A+
     - <img src="https://github.com/user-attachments/assets/3847f1f2-04c0-4659-94ac-23a54975ff77" alt="CompTIA A+ ce certificate" width="350" height="350">
+- CompTIA N+
+  - <img src="https://github.com/user-attachments/assets/3847f1f2-04c0-4659-94ac-23a54975ff77" alt="CompTIA N+ ce certificate" width="350" height="350">
+  
+    [CompTIA Network+ ce certificate.pdf](https://github.com/user-attachments/files/34205226/CompTIA.Network%2B.ce.certificate.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
