@@ -105,7 +105,7 @@ http://www.linkedin.com/in/oghenevwoke-eruvwurigho-ojarigho
 
 <h2> what's going on</h2>
 
-- 🔭 I’m currently working on CompTIA Network+ Certification
+- 🔭 I’m currently working on CCNA Certification
 
 - 👯 I’m looking to Start Cyber+ after Earning my Network +
-- 🤔 I’m looking for an opportunities to grow professionally
+
